@@ -18,6 +18,7 @@ Labels are in `txt` format which is the required format for YOLO
 
 Results:
 ![](imgs/F1_curve.png "F1 Curve")
+
 ![](imgs/PR_Curve.png "PR")
 The model metrics were not that much as it needs to be trained for more time and the dataset needs to be larger.
 
