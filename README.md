@@ -19,7 +19,7 @@ Labels are in `txt` format which is the required format for YOLO
 Results:
 ![](imgs/F1_curve.png "F1 Curve")
 
-![](imgs/PR_Curve.png "PR")
+![](imgs/PR_curve.png "PR")
 The model metrics were not that much as it needs to be trained for more time and the dataset needs to be larger.
 
 **Best thing is to use this notebook on Google Colab or on a Linux machine to make the code automative as possible and avoid dependency issues.**
